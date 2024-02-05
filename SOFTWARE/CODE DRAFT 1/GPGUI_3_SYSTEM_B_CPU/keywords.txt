@@ -1,0 +1,16 @@
+GPGUI_3_SYSTEM_B_CPU		KEYWORD1
+power_Up		KEYWORD1
+send_Com_Test_To_Sys_A_Cpu		KEYWORD1
+read_Com_Port		KEYWORD1
+set_Cpu_Led		KEYWORD1
+OS		KEYWORD1
+read_IR_Remote		KEYWORD1
+reset_Mouse_Cpu		KEYWORD1
+enable_IR_Signal_Led		KEYWORD1
+disable_IR_Signal_Led		KEYWORD1
+reset_Sys_A_Cpu		KEYWORD1		
+reset_SoundCard_Cpu		KEYWORD1
+reset_Main_Cpu		KEYWORD1
+set_Main_Cpu_To_Program_Mode		KEYWORD1
+set_Main_Cpu_To_Run_Mode		KEYWORD1
+reset_slot_Cards		KEYWORD1

@@ -1,0 +1,16 @@
+GPGUI_MIDI_CORE		KEYWORD1
+SAM_INIT		KEYWORD1
+set_Voice		KEYWORD1
+note_On		KEYWORD1
+note_Off		KEYWORD1
+en_Sustain		KEYWORD1
+en_Reverb_Coarse		KEYWORD1
+en_Modulation_Coarse		KEYWORD1
+pitch_Bend		KEYWORD1	
+en_Chorus_Coarse		KEYWORD1
+set_Ch_Volume		KEYWORD1
+set_Pan		KEYWORD1
+set_Patch		KEYWORD1
+set_Bank		KEYWORD1
+random_Music_Gen_1		KEYWORD1
+machine_Gun_FX		KEYWORD1

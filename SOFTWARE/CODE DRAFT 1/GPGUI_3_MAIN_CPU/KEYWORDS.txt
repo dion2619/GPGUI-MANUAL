@@ -1,0 +1,99 @@
+GPGUI	KEYWORD1
+GPGUI_INIT	KEYWORD1
+
+
+SendCommandI2c	KEYWORD1
+cpu		keyword1
+setPixel	KEYWORD1
+drawLine	KEYWORD1
+refreshScreen	KEYWORD1
+drawHollowCircle	KEYWORD1
+drawSolidCircle	KEYWORD1
+drawTriangle	KEYWORD1
+beep	KEYWORD1
+drawSolidRectangle	KEYWORD1
+drawHollowRectangle	KEYWORD1
+drawBackgroundColor	KEYWORD1
+printNumberDouble	KEYWORD1
+printNumberInt	KEYWORD1
+print	KEYWORD1
+startVGAdisplay	KEYWORD1
+read_Keyboard_Port	KEYWORD1
+sendCommand_EXP_Port	KEYWORD1
+set_HDD_Led	KEYWORD1
+clear_EEPROM	KEYWORD1
+printNumberHex	KEYWORD1
+read_Midi_Port	KEYWORD1
+send_Midi_Message	KEYWORD1
+read_EXP_Port	KEYWORD1
+beep_On	KEYWORD1
+beep_Off	KEYWORD1
+draw_Perspective_Grid	KEYWORD1
+DDA_Line	KEYWORD1
+rotate_Point	KEYWORD1
+draw_Vector	KEYWORD1
+angled_Point_Step	KEYWORD1
+sine_Wave_Bounce	KEYWORD1
+read_PS2_Controller	KEYWORD1
+draw_Isometric_Grid_From_Buffer_10x10	KEYWORD1
+point_Liner_Interpolation	KEYWORD1
+triangle_Cube_Program	KEYWORD1
+perspective_Grid_3D_Program	KEYWORD1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c	KEYWORD2
+COLORS	KEYWORD1
+black	KEYWORD1  
+white	KEYWORD1  
+red	KEYWORD1    
+lime	KEYWORD1   
+blue	KEYWORD1   
+yellow	KEYWORD1 
+cyan	KEYWORD1   
+magenta	KEYWORD1
+grey	KEYWORD1   
+maroon	KEYWORD1 
+olive	KEYWORD1  
+green	KEYWORD1  
+purple	KEYWORD1 
+teal	KEYWORD1   
+navy	KEYWORD1   
+
+top_Corner_Camera		KEYWORD2
+left_Corner_Camera		KEYWORD2
+right_Corner_Camera		KEYWORD2
+
+top_LH_Side_Camera		KEYWORD2
+left_LH_Side_Camera		KEYWORD2
+right_LH_Side_Camera		KEYWORD2
+
+top_RH_Side_Camera		KEYWORD2
+left_RH_Side_Camera		KEYWORD2
+right_RH_Side_Camera		KEYWORD2
+
+ D_Left		KEYWORD2      
+ D_Right		KEYWORD2     
+ D_Up		KEYWORD2        
+ D_Down		KEYWORD2      
+ B_X		KEYWORD2         
+ B_Square		KEYWORD2    
+ B_Triangle		KEYWORD2  
+ B_Circle		KEYWORD2    
+ L1		KEYWORD2          
+ L2		KEYWORD2          
+ R1		KEYWORD2          
+ R2		KEYWORD2          
+ Start		KEYWORD2       
+ Select		KEYWORD2      

@@ -1,0 +1,35 @@
+sync       ID       command        data
+255        127      1              ------------------------------.             //FREE
+255        127      2              posX, posY, character as byte .             //PRINT SINGLE CHAR ON LCD
+255        127      3              ------------------------------.             //CLEAR LCD
+255        127      4              ------------------------------.             //FREE
+255        127      5              state.------------------------.             //ENABLE/DISABLE LCD BACK LIGHT
+255        127      6              posX, posY, 1 byte------------.             //PRINT BYTE ON LCD
+255		   127      7	           ------------------------------.             //RESET MOUSE CPU
+255		   127      8	           ------------------------------.             //RESET SLOTS 
+255		   127      9	           ------------------------------.             //RESET SYSTEM A CPU
+255		   127      10	           ------------------------------.             //RESET DEVICE PLUG
+255		   127      11	           ------------------------------.             //RESET MAIN CPU
+255		   127      12	           ------------------------------.             //SET MAIN CPU TO PROGRAM MODE
+255		   127      13	           ------------------------------.             //SET MAIN CPU TO RUN MODE
+
+
+I2C IN
+
+command        data
+1              ------------------------------.             //reset_Mouse_Cpu
+2              ------------------------------.             //reset_Slots
+3              ------------------------------.             //reset_Sys_A_Cpu
+4              ------------------------------.             //reset_Device_plug
+5              ------------------------------.             //clear_Lcd
+6              STATE-------------------------.             //enable_Lcd_Back_Light
+7	           posX, posY, character as byte-.             //write_Char_To_Lcd 
+8	           ADDRESS-----------------------.             //set_Device_Mux_Address
+9	           ADDRESS-----------------------.             //set_Control_Mux_Address
+10	           ADDRESS-----------------------.             //set_Sound_Mux_Address
+255	           ------------------------------.             //com test
+         
+
+
+
+

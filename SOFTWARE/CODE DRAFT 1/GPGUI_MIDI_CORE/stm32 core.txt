@@ -1,0 +1,3 @@
+http://dan.drown.org/stm32duino/package_STM32duino_index.json
+
+Generic STM32F103C series

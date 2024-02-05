@@ -1,0 +1,3 @@
+MOUSE_CPU	KEYWORD1	
+Init	KEYWORD1	
+Serial_Dump_Mouse	KEYWORD1	

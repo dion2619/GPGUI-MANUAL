@@ -1,0 +1,8 @@
+sync     ID        command      data
+
+255      127       1            32 bytes            //UPDATE LCD BACK BUFFER
+255      127       2            xpos, ypos, char    //PRINT SINGLE CHARACTER ON LCD
+255      127       3            ----------------    //CLEAR LCD
+255      127       4            ----------------    //SHOW LCD BACK BUFFER
+255      127       5            state,----------    //TURN ON/OFF LCD BACKLIGHT
+255      127       6            xpos, ypos, byte    //PRINT BYTE ON LCD

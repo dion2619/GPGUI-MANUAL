@@ -1,0 +1,10 @@
+SYNC           COM ID           COMMAND      DATA                FUNCTION
+255            0                1            ----------------    //LEFT MAKE
+255            0                2            ----------------    //LEFT BREAK
+255            0                3            ----------------    //MIDDLE MAKE
+255            0                4            ----------------    //MIDDLE BREAK
+255            0                5            ----------------    //RIGHT MAKE
+255            0                6            ----------------    //RIGHT BREAK             DELTA   SIGN
+255            0                7            X BYTE, Y BYTE      //POS CHANGE DELTA  MSB (0000000) (1) LSB 
+255            0                8            ----------------    //SCROLL UP
+255            0                9            ----------------    //SCROLL DOWN

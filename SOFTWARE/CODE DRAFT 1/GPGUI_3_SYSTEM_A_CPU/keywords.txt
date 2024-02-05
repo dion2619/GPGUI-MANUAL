@@ -1,0 +1,15 @@
+system_A_Cpu		KEYWORD1
+power_Up		KEYWORD1
+send_Com_Test_To_Sys_B_Cpu		KEYWORD1
+send_Command_To_Sys_B		KEYWORD1
+write_Char_To_Lcd		KEYWORD1
+clear_Lcd		KEYWORD1
+enable_Lcd_Back_Light		KEYWORD1
+print_Lcd_Text		KEYWORD1
+print_Lcd_Byte		KEYWORD1
+set_Com_Port_Mux_Address		KEYWORD1
+i2c_Available		KEYWORD1
+i2c_Handle		KEYWORD1
+set_Default_Com_Port		KEYWORD1
+system_Start		KEYWORD1
+OS		KEYWORD1
